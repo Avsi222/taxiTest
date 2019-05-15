@@ -5,6 +5,6 @@
 
 ![Alt text](/Screenshots/Screenshot1.png?raw=true "Экран выбора города")
 
-![Alt text](/Screenshots/Screenshot2.png?raw=true "Карта. Санкт-Петурбрг")
+![Alt text](/Screenshots/Screenshot2.png?raw=true "Карта. Санкт-Петербург")
 
-![Alt text](/Screenshots/Screenshot3.png?raw=true"Карта Москва")
+![Alt text](/Screenshots/Screenshot3.png?raw=true "Карта Москва")
